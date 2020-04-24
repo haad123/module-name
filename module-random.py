@@ -6,6 +6,7 @@ min = 3
 max = 10
 
 n = random.randint(min, max)
+    # .randint(a, b) returns a random number between the specified min and max values
 print(n)
 
 if n == 7:
