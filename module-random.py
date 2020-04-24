@@ -1,5 +1,5 @@
-# "Lucky or Not?" test project by haad123
-# sample application of module random
+# "Lucky or Not" Test Project by haad123
+# Sample application of module random
 
 import random 
 min = 3
